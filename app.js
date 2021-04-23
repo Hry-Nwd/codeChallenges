@@ -108,13 +108,7 @@ const deleteUserFromFile = (req, res) => {
             
             }
             res.status(200).send(`successfully deleted ${reqUsername}`)
-
-           
-               
-               
-
            });  
-        
         }
 }
 
